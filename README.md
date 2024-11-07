@@ -23,3 +23,6 @@ This model is a **LoRA-based text-to-image diffusion** model with **quantization
 - **Memory Management**: To prevent memory issues, utilize CPU offloading and periodically clear the cache.
 
 This model setup is optimized for straightforward, memory-efficient inference on Colab. Ideal for users working in constrained environments.
+
+### Colab Notebook for Reference
+To get started with the model, you can refer to this [Colab Notebook](https://colab.research.google.com/drive/1m4gd-wSpZtByu5m0ebZorajnprghln2X?usp=sharing) for a full guide and hands-on demonstration.
