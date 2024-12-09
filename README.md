@@ -1,7 +1,3 @@
----
-library_name: diffusers
-license: mit
----
 ## LoRA-Based Text-to-Image Diffusion Model
 
 This model is a **LoRA-based text-to-image diffusion** model with **quantization** and is specifically optimized for environments with **16 GB RAM** like Google Colab. It uses LoRA for lightweight fine-tuning and quantization to reduce memory demands.
